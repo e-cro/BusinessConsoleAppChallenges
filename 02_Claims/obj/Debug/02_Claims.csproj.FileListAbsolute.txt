@@ -1,0 +1,6 @@
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\02_Claims\bin\Debug\02_Claims.dll
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\02_Claims\bin\Debug\02_Claims.pdb
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\02_Claims\obj\Debug\02_Claims.csprojAssemblyReference.cache
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\02_Claims\obj\Debug\02_Claims.csproj.CoreCompileInputs.cache
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\02_Claims\obj\Debug\02_Claims.dll
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\02_Claims\obj\Debug\02_Claims.pdb

@@ -1,0 +1,10 @@
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\01_CafeUI\obj\Debug\01_CafeUI.csprojAssemblyReference.cache
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\01_CafeUI\obj\Debug\01_CafeUI.csproj.CoreCompileInputs.cache
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\01_CafeUI\bin\Debug\01_CafeUI.exe.config
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\01_CafeUI\bin\Debug\01_CafeUI.exe
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\01_CafeUI\bin\Debug\01_CafeUI.pdb
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\01_CafeUI\bin\Debug\01_Cafe.dll
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\01_CafeUI\bin\Debug\01_Cafe.pdb
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\01_CafeUI\obj\Debug\01_CafeUI.csproj.CopyComplete
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\01_CafeUI\obj\Debug\01_CafeUI.exe
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\01_CafeUI\obj\Debug\01_CafeUI.pdb

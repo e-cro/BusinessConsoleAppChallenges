@@ -43,7 +43,7 @@ namespace _02_ClaimsTests
             Assert.AreEqual(searchResult, testClaim);
 
         }
-
+        /*
         [TestMethod]
         public void RemoveClaimFromQueue_Test()
         {
@@ -61,7 +61,7 @@ namespace _02_ClaimsTests
 
             Assert.AreEqual(one, testClaimRepo.RemoveClaimFromQueue());
         }
-
+        
         [TestMethod]
         public void AddClaimToQueue_Test()
         {
@@ -75,6 +75,6 @@ namespace _02_ClaimsTests
 
             //Assert
             Assert.IsTrue(addResult);
-        }
+        }*/
     }
 }

@@ -1,0 +1,16 @@
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\02_ClaimsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\02_ClaimsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\02_ClaimsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\02_ClaimsTests\bin\Debug\02_ClaimsTests.dll
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\02_ClaimsTests\bin\Debug\02_ClaimsTests.pdb
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\02_ClaimsTests\bin\Debug\02_Claims.dll
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\02_ClaimsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\02_ClaimsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\02_ClaimsTests\bin\Debug\02_Claims.pdb
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\02_ClaimsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\02_ClaimsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\02_ClaimsTests\obj\Debug\02_ClaimsTests.csprojAssemblyReference.cache
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\02_ClaimsTests\obj\Debug\02_ClaimsTests.csproj.CoreCompileInputs.cache
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\02_ClaimsTests\obj\Debug\02_ClaimsTests.csproj.CopyComplete
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\02_ClaimsTests\obj\Debug\02_ClaimsTests.dll
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\02_ClaimsTests\obj\Debug\02_ClaimsTests.pdb

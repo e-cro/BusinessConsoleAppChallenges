@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClaimUI
+namespace _02_ClaimUI
 {
     public class ProgramUI
     {

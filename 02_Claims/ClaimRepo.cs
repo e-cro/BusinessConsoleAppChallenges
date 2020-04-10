@@ -33,5 +33,6 @@ namespace _02_Claims
         {
             _queueOfClaims.Enqueue(claim);
         }
+
     }
 }

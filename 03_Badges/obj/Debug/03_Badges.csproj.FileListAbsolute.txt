@@ -1,0 +1,6 @@
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\03_Badges\bin\Debug\03_Badges.dll
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\03_Badges\bin\Debug\03_Badges.pdb
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\03_Badges\obj\Debug\03_Badges.csprojAssemblyReference.cache
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\03_Badges\obj\Debug\03_Badges.csproj.CoreCompileInputs.cache
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\03_Badges\obj\Debug\03_Badges.dll
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\03_Badges\obj\Debug\03_Badges.pdb

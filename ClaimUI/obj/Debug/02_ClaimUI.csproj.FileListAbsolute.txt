@@ -1,0 +1,10 @@
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\ClaimUI\bin\Debug\ClaimUI.exe.config
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\ClaimUI\bin\Debug\ClaimUI.exe
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\ClaimUI\bin\Debug\ClaimUI.pdb
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\ClaimUI\bin\Debug\02_Claims.dll
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\ClaimUI\bin\Debug\02_Claims.pdb
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\ClaimUI\obj\Debug\02_ClaimUI.csprojAssemblyReference.cache
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\ClaimUI\obj\Debug\02_ClaimUI.csproj.CoreCompileInputs.cache
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\ClaimUI\obj\Debug\02_ClaimUI.csproj.CopyComplete
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\ClaimUI\obj\Debug\ClaimUI.exe
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\ClaimUI\obj\Debug\ClaimUI.pdb

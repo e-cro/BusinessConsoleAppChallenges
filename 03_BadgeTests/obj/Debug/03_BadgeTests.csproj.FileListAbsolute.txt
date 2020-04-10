@@ -1,0 +1,16 @@
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\03_BadgeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\03_BadgeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\03_BadgeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\03_BadgeTests\bin\Debug\03_BadgeTests.dll
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\03_BadgeTests\bin\Debug\03_BadgeTests.pdb
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\03_BadgeTests\bin\Debug\03_Badges.dll
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\03_BadgeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\03_BadgeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\03_BadgeTests\bin\Debug\03_Badges.pdb
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\03_BadgeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\03_BadgeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\03_BadgeTests\obj\Debug\03_BadgeTests.csprojAssemblyReference.cache
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\03_BadgeTests\obj\Debug\03_BadgeTests.csproj.CoreCompileInputs.cache
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\03_BadgeTests\obj\Debug\03_BadgeTests.csproj.CopyComplete
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\03_BadgeTests\obj\Debug\03_BadgeTests.dll
+C:\Users\erinc\OneDrive\1150\GoldBadge2\Console_App_Business_Challenges\03_BadgeTests\obj\Debug\03_BadgeTests.pdb

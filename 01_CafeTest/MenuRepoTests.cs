@@ -14,8 +14,8 @@ namespace _01_CafeTest
         [TestInitialize]
         public void Arrange()
         {
-            _repo = new MenuRepo();
             _menu = new Menu(1, "Test Burger", "Description of test burger", "Ingredients in test burger", 1.50);
+            _repo = new MenuRepo();
             _repo.AddItemToMenu(_menu);
         }
 
